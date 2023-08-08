@@ -1,3 +1,6 @@
+# Project specific
+templateRelatorioTecnico.doc
+
 *.bundle.*
 lib/
 node_modules/
